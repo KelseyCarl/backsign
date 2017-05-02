@@ -1,0 +1,110 @@
+[ 2017-04-18T00:01:26+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0480s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0450s ]
+
+[ 2017-04-18T00:01:44+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0420s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0540s ]
+
+[ 2017-04-18T00:01:58+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0630s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0510s ]
+
+[ 2017-04-18T00:02:11+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0560s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0560s ]
+
+[ 2017-04-18T00:02:33+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0500s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0550s ]
+
+[ 2017-04-18T00:07:17+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0600s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0600s ]
+
+[ 2017-04-18T00:24:13+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0500s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0700s ]
+
+[ 2017-04-18T00:24:43+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0550s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0570s ]
+
+[ 2017-04-18T00:29:03+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0500s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0500s ]
+
+[ 2017-04-18T00:29:35+08:00 ] 192.168.0.101 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0550s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0680s ]
+

@@ -1,0 +1,40 @@
+[ 2017-04-28T22:34:43+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0570s ]
+SQL: select * from sign_course where date='2017-04-28' and  user_id='3120130905123' [ RunTime:0.0580s ]
+
+[ 2017-04-28T22:37:21+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+SQL: select * from sign_course where date='2017-04-28' and  user_id='3120130905123' [ RunTime:0.0560s ]
+
+[ 2017-04-28T22:37:46+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_course where date='2017-04-28' and  user_id='3120130905123' [ RunTime:0.0600s ]
+
+[ 2017-04-28T22:38:55+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+SQL: select * from sign_course where date='2017-04-28' and  user_id='3120130905123' [ RunTime:0.0580s ]
+

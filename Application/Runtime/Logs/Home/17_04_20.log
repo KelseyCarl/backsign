@@ -1,0 +1,1712 @@
+[ 2017-04-20T19:21:49+08:00 ] ::1 /backsign/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.037002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037002s ]
+
+[ 2017-04-20T19:23:49+08:00 ] ::1 /backsign/index.php/Home/Map/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.022001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022001s ]
+
+[ 2017-04-20T19:26:23+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0700s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2017-04-20T19:26:25+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-04-20T19:26:28+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:26:42+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0470s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-04-20T19:26:50+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:27:10+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:27:23+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0590s ]
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:27:53+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0570s ]
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:27:57+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+NOTIC: [8] Array to string conversion E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-04-20T19:28:09+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-04-20T19:28:26+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-04-20T19:28:29+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0490s ]
+NOTIC: [8] Undefined index: schoolName E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:28:51+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:29:16+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:29:19+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-04-20T19:32:41+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0550s ]
+
+[ 2017-04-20T19:32:53+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0540s ]
+
+[ 2017-04-20T19:40:54+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T19:52:58+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0510s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':52:58 between startTime and endTime where user_id='3120130905123'' at line 1
+ [ SQL语句 ] : select * from sign_course where 19:52:58 between startTime and endTime where user_id='3120130905123'
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':52:58 between startTime and endTime where user_id='3120130905123'' at line 1
+ [ SQL语句 ] : select * from sign_course where 19:52:58 between startTime and endTime where user_id='3120130905123'
+
+[ 2017-04-20T19:56:34+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0480s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0490s ]
+
+[ 2017-04-20T19:59:38+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0570s ]
+
+[ 2017-04-20T20:01:01+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-04-20T20:05:36+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-04-20T20:06:11+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T20:07:33+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0480s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-04-20T20:07:58+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0510s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T20:08:41+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0470s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-04-20T20:08:51+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+
+[ 2017-04-20T20:08:53+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0468s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0624s ]
+
+[ 2017-04-20T20:09:03+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T20:11:25+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T20:11:47+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T20:12:25+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0490s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0510s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T20:13:03+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0490s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-04-20T20:13:05+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0470s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-04-20T20:14:33+08:00 ] 192.168.0.108 /backsign/index.php/Home/Map/map/token/%22+token
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-20T20:16:38+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-20T20:21:47+08:00 ] ::1 /backsign/index.php/Home/Map/test/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:test
+
+[ 2017-04-20T20:21:58+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0590s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0490s ]
+
+[ 2017-04-20T20:22:04+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0490s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0650s ]
+NOTIC: [8] Undefined index: detaillocation E:\xampp\htdocs\backsign\Application\Home\Controller\MapController.class.php 第 58 行.
+
+[ 2017-04-20T20:24:08+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0490s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0490s ]
+
+[ 2017-04-20T20:24:58+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0480s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0480s ]
+
+[ 2017-04-20T20:25:17+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0540s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0570s ]
+
+[ 2017-04-20T20:25:19+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.1650s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0600s ]
+
+[ 2017-04-20T20:27:21+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0540s ]
+
+[ 2017-04-20T20:27:41+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0560s ]
+
+[ 2017-04-20T20:28:12+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0470s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0460s ]
+
+[ 2017-04-20T20:31:58+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0550s ]
+
+[ 2017-04-20T20:32:06+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0470s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0470s ]
+
+[ 2017-04-20T20:32:38+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0610s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0580s ]
+
+[ 2017-04-20T20:34:01+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0560s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0600s ]
+
+[ 2017-04-20T20:34:03+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0500s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0490s ]
+
+[ 2017-04-20T20:34:15+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0580s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0560s ]
+
+[ 2017-04-20T20:34:32+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0470s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0490s ]
+
+[ 2017-04-20T20:35:52+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0530s ]
+
+[ 2017-04-20T20:36:21+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0480s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0480s ]
+
+[ 2017-04-20T20:38:13+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0560s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0570s ]
+
+[ 2017-04-20T20:38:14+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0540s ]
+
+[ 2017-04-20T20:39:01+08:00 ] ::1 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0530s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0530s ]
+
+[ 2017-04-20T20:40:31+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0540s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0590s ]
+
+[ 2017-04-20T20:40:32+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0490s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0480s ]
+
+[ 2017-04-20T20:54:01+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0550s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0570s ]
+
+[ 2017-04-20T20:54:01+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0480s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0352s ]
+
+[ 2017-04-20T20:54:17+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+
+[ 2017-04-20T20:54:18+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0468s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0624s ]
+
+[ 2017-04-20T20:54:47+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0724s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0576s ]
+
+[ 2017-04-20T20:54:47+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0624s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0624s ]
+
+[ 2017-04-20T20:54:49+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0500s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0480s ]
+
+[ 2017-04-20T20:56:02+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0480s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0480s ]
+
+[ 2017-04-20T20:57:13+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0550s ]
+
+[ 2017-04-20T21:06:20+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:06:21+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0624s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0468s ]
+
+[ 2017-04-20T21:06:22+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0468s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:06:47+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:06:48+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0624s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0468s ]
+
+[ 2017-04-20T21:06:49+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0468s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0488s ]
+
+[ 2017-04-20T21:07:04+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:07:04+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0550s ]
+
+[ 2017-04-20T21:07:06+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0624s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0780s ]
+
+[ 2017-04-20T21:07:12+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+
+[ 2017-04-20T21:07:12+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0560s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0550s ]
+
+[ 2017-04-20T21:07:14+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0624s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:07:18+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0624s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:07:19+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0468s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:07:20+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0468s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:09:33+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0530s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0560s ]
+
+[ 2017-04-20T21:09:55+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0540s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0560s ]
+
+[ 2017-04-20T21:10:14+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0640s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0620s ]
+
+[ 2017-04-20T21:10:47+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0570s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0570s ]
+
+[ 2017-04-20T21:11:22+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0480s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0490s ]
+
+[ 2017-04-20T21:11:22+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0550s ]
+
+[ 2017-04-20T21:11:24+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0550s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0720s ]
+
+[ 2017-04-20T21:18:42+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0634s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0362s ]
+
+[ 2017-04-20T21:18:43+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0468s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:20:24+08:00 ] 192.168.0.102 /backsign/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\backsign\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: select * from sign_user where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0624s ]
+SQL: update sign_user set token='1f192efe1beeef1a18272c3a0f1da68d' where user_phone='3120130905123' or user_id='3120130905123' [ RunTime:0.0468s ]
+
+[ 2017-04-20T21:20:24+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/map/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select schoolName from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0624s ]
+SQL: select * from sign_location where schoolName='西华大学' [ RunTime:0.0468s ]
+
+[ 2017-04-20T21:20:25+08:00 ] 192.168.0.102 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+NOTIC: [8] Undefined index: HTTP_ACCEPT E:\xampp\htdocs\backsign\ThinkPHP\Library\Think\Controller\RestController.class.php 第 118 行.
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0508s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0624s ]
+
+[ 2017-04-20T21:23:23+08:00 ] ::1 /backsign/index.php/Home/Map/incourse/token/1f192efe1beeef1a18272c3a0f1da68d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: select user_id from sign_user where token='1f192efe1beeef1a18272c3a0f1da68d' [ RunTime:0.0490s ]
+SQL: select * from sign_course where date='2017-04-20' and  user_id='3120130905123' [ RunTime:0.0490s ]
+
